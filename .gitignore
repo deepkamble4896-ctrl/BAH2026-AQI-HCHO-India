@@ -1,0 +1,19 @@
+﻿# Large data files
+data/*.csv
+data/*.pkl
+data/india_v2.geojson
+data/test_*.geojson
+data/kashmir_fixed.geojson
+data/india_states_fixed.geojson
+data/india_states_v2.geojson
+data/india_accurate.geojson
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Local outputs
+*.html
+*.log

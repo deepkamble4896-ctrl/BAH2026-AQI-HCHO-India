@@ -1,0 +1,10 @@
+﻿earthengine-api
+pandas
+numpy
+scipy
+plotly
+matplotlib
+shapely
+scikit-learn
+kaleido
+requests
